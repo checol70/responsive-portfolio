@@ -229,4 +229,13 @@ a:hover{
         text-align:center;
         margin-top:auto;
     }
+    .pH{
+        float:none;
+        min-width: 300px;
+        margin: 10px auto;
+    }
+    .text-width{
+        margin-left:0;
+        margin-right:0;
+    }
 }
