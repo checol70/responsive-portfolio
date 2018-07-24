@@ -149,7 +149,7 @@ form{
     background-color:#FF5700;
 }
 .out{
-    overflow:auto;
+    height: 300px;
 }
 .out:hover{
     border-style: solid;
